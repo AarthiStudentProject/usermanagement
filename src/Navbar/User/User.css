@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.answerpage{
+    background-color: #fff;
+    margin-bottom: 30px;
+    width: 600px;
+    padding: 20px;
+    box-shadow: 10px 8px 15px -2px rgba(135,135,135,0.37);
+}
+.answerpage h1,.answerpage h2{
+    color: rgba(0,0,0,0.541);
+
+}
+.answerpage span{
+    color: grey;
+}
+.user_bottom{
+    margin-bottom: 20px;
+
+}
+.delete-button{
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 100px;
+    background-color: brown;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+}
